@@ -4,7 +4,7 @@
 The Clothes Recommendation System is a Python-based project that suggests suitable clothing based on **temperature** and **weather conditions**.  
 It is a simple, modular program built using conditional statements and separate module files, demonstrating clean structure and real-world applicability.
 
-This project aligns with the *Build Your Own Project* guidelines by providing clear input/output, modularity, functional requirements, and user interaction flow.
+
 
 ---
 
@@ -29,3 +29,4 @@ This project aligns with the *Build Your Own Project* guidelines by providing cl
 ## Running the Project
 RUN 
 python main.py
+
